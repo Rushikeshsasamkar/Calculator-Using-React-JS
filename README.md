@@ -2,7 +2,10 @@
 
 > This is a Calculator application built with react.js.
 
-![screenshot](./src/img/calc.PNG)
+# Screenshot:
+
+![image](https://github.com/Rushikeshsasamkar/Calculator-Using-React-JS/assets/44942941/ca6833d3-d03b-4385-9967-c66cb8960423)
+
 
 It utilizes reacts Class components to function and implement its various features.
 
@@ -82,23 +85,3 @@ npm run html-validator
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- I appreciate the efforts of my mentors for their constatnt guidance and contribtution.
-- [@bolah2009](http://github.com/bolah2009)
-- [@adejam](https://github.com/adejam)
-
-## 📝 License
-
-[MIT licensed](./LICENSE).
